@@ -2,15 +2,15 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is a programming language with multitudes of uses.
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+Git and GitHub are crucial tools in modern software development, enabling collaboration, version control, and efficient workflows.
 
 ## 4. What happens when you `fork` a repository?
 
