@@ -14,12 +14,12 @@ Git and GitHub are crucial tools in modern software development, enabling collab
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+Forking is a concept of making a copy of the main repository to your account so that you can make changes to it without affecting the original.
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone a repository, you copy the repository from GitHub.com to your local machine. 
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A Pull Reuest is a way for a developer to notify team members that they have completed a feature and are ready to have their changes merged into a main project branch. 
